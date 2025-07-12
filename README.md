@@ -165,7 +165,4 @@ Diagram: See `EER_Diagram.png` (submitted alongside this project)
 
  🙌 Author
 Built with 💻 by Madina Tokhi  
-Student Assignment – Backend Development (Assignment 6)  I ment this one ans should I write my own user name where my user name and name is wrriten like ```bash
-git clone https://github.com/madinatokhi/foodie-hub-backend.git
-cd foodie-hub-backend
-``` or not
+Student Assignment – Backend Development (Assignment 6)  
